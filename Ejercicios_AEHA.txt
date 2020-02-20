@@ -1,0 +1,7 @@
+Ejercicios realizados
+- 7 Calcular área de un circulo 				Archivo: AEHA_area_circulo.py
+- 15 Conversion de °C a °F y viceversa				Archivo: AEHA_conversion.py
+- 17 Desglose del IVA de acuerdo a cantidad ingresada		Archivo: AEHA_desglose.py
+- 21 Imprimir cancion de los elefantes 100 veces		Archivo: AEHA_cancion_elefantes.py
+- 24 Imprimir equivalente en letra de una calificacion 		Archivo: AEHA_formato_usa.py
+- 36 Imprimir cuadro de multiplicar de multiplo ingresado	Archivo: AEHA_cuadro_multiplicar.py
